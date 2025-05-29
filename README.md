@@ -1,4 +1,4 @@
-# Google ADK Tutorial
+# Google ADK Tutorial - Travel Agent App
 
 Ref YouTube Video: https://www.youtube.com/watch?v=eli7BoA3QNc 
 
