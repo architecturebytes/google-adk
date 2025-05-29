@@ -15,3 +15,5 @@ source env_name/bin/activate
 Install Google-ADK<br>
 pip install google-adk 
 
+API Key<br>
+You can generate the GOOGLE_API_KEY (used in .env file) from Google AI Studio (https://aistudio.google.com > 'Get API Key' link).
