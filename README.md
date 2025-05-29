@@ -9,7 +9,7 @@ python -m venv env_name
 (Windows)
 env_name\Scripts\activate
 
-Mac/Linux<br>
+(Mac/Linux)
 source env_name/bin/activate
 
 Install Google-ADK<br>
